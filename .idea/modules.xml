@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/cloudDemo-master/eureka/eureka.iml" filepath="$PROJECT_DIR$/cloudDemo-master/eureka/eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloudDemo-master/feign/feign.iml" filepath="$PROJECT_DIR$/cloudDemo-master/feign/feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloudDemo-master/ribbon/ribbon.iml" filepath="$PROJECT_DIR$/cloudDemo-master/ribbon/ribbon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloudDemo-master/ribbon-consumer/ribbon-consumer.iml" filepath="$PROJECT_DIR$/cloudDemo-master/ribbon-consumer/ribbon-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/springCloudDemo.iml" filepath="$PROJECT_DIR$/.idea/springCloudDemo.iml" />
+    </modules>
+  </component>
+</project>
